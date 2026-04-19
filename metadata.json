@@ -1,0 +1,6 @@
+{
+  "name": "Excel Merger Pro",
+  "description": "Ghép nối nhiều tệp Excel có cùng cấu trúc thành một tệp duy nhất, hỗ trợ tùy chỉnh số hàng tiêu đề để tránh trùng lặp dữ liệu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
